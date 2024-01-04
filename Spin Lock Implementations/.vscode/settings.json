@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "spinlock-ttas-backoff": "c",
+        "atomic": "cpp"
+    }
+}
